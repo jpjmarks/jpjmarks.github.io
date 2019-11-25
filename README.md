@@ -1,3 +1,3 @@
 # jpjmarks.github.io
 
-## I am totally gay.
+## I am totally (not) gay.
